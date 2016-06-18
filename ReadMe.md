@@ -1,6 +1,6 @@
 # cpf.bat
 
-> Gerar números de CPFs pelo Prompt de Comando.
+> Gerar números de [CPFs](https://en.wikipedia.org/wiki/Cadastro_de_Pessoas_F%C3%ADsicas) pelo Prompt de Comando.
 
 ## Instalação
 
