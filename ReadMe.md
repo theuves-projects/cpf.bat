@@ -13,7 +13,7 @@ set "PATH=%HOMEDRIVE%%HOMEPATH%\.cpf;%PATH%"
 
 ## Uso
 
-Apenas use o comando `cpf`, e ele retornará um número de CPF aleatório e válido.
+Apenas use o comando `cpf` (ou `cpf.bat`), e ele retornará um número de CPF aleatório e válido.
 
 ## Licença
 
